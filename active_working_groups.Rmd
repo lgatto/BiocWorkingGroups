@@ -112,8 +112,8 @@ expectations regarding personal data privacy.
 
 - Description:
 - Links:
-- Leads: Lori Shepherd <Lori.Shepherd@RoswellPark.org>
-- Current Members: Vince Cary, Laurent Gatto, Johannes Rainer
+- Leads: Laurent Gatto 
+- Current Members: Vince Cary, Johannes Rainer, Lori Shepherd
 
 ## Spatial and Multi-omics
 
